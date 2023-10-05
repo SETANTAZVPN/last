@@ -261,9 +261,9 @@ wget -O /home/vps/public_html/index.html "https://github.com/Rerechan02/Rerechan
 cd /usr/bin
 rm -fr menu
 rm -fr /usr/sbin/menu
-wget https://raw.githubusercontent.com/SETANTAZVPN/last/main/funny.zip
-unzip funny.zip
-rm -fr funny.zip
+wget https://raw.githubusercontent.com/SETANTAZVPN/last/main/funnyx.zip
+unzip funnyx.zip
+rm -fr funnyx.zip
 chmod +x *
 clear
 cd /usr/local/bin
